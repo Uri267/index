@@ -1,0 +1,102 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+
+
+header {
+    background-color: #333;
+    color: green;
+    text-align: center;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    padding: 0;
+    margin: 0;
+}
+
+header nav ul li a {
+    color: white;
+    font-weight: bold;
+}
+
+section {
+    padding: 10px;  
+}
+
+#señalamientos {
+    background-color: #A9CCE3; /* Color verde claro */
+
+}
+
+#Doble {
+    background-color: #48C9B0  ; /* Color azul claro */
+    text-align: center
+}
+
+#Escolar {
+    background-color: #EC7063 ; /* Color amarillo claro */
+    text-align: center
+}
+
+#Tope {
+    background-color: #52BE80  ; /* Color naranja claro */
+text-align: center
+}
+
+#Dobleizquierda {
+    background-color: #F4D03F; /* C#F4D03Folor naranja claro */
+text-align: center
+}
+
+#Alto {
+    background-color: #D7BDE2; /* Color verde claro */
+    text-align: center
+}
+
+#Peligro {
+    background-color: #76D7C4 ; /* Color naranja claro */
+
+text-align: center
+}
+
+#Motocicletas {
+    background-color: #A569BD; /* Color naranja claro */
+    text-align: center
+}
+
+#Bicicletas {
+    background-color: #EC7063 ; /* Color naranja claro */
+    text-align: center
+}
+
+#Velocidad {
+    background-color: #16A085 ; /* Color naranja claro */
+    text-align: center
+}
+
+#Estacionarse {
+    background-color: #DC7633; /* Color naranja claro */
+    text-align: center
+}
+
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 0.5em 0;
+}
