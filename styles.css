@@ -84,6 +84,11 @@ text-align: center
     text-align: center
 }
 
+#integrantes {
+    background-color: #16A085; /* Color naranja claro */
+    text-align: center
+}
+
 
 footer {
     background-color: #333;
